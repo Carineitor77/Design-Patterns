@@ -1,0 +1,15 @@
+D:\VS project\Design patterns\Bridge\bin\Debug\net7.0\Bridge.exe
+D:\VS project\Design patterns\Bridge\bin\Debug\net7.0\Bridge.deps.json
+D:\VS project\Design patterns\Bridge\bin\Debug\net7.0\Bridge.runtimeconfig.json
+D:\VS project\Design patterns\Bridge\bin\Debug\net7.0\Bridge.dll
+D:\VS project\Design patterns\Bridge\bin\Debug\net7.0\Bridge.pdb
+D:\VS project\Design patterns\Bridge\obj\Debug\net7.0\Bridge.csproj.AssemblyReference.cache
+D:\VS project\Design patterns\Bridge\obj\Debug\net7.0\Bridge.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS project\Design patterns\Bridge\obj\Debug\net7.0\Bridge.AssemblyInfoInputs.cache
+D:\VS project\Design patterns\Bridge\obj\Debug\net7.0\Bridge.AssemblyInfo.cs
+D:\VS project\Design patterns\Bridge\obj\Debug\net7.0\Bridge.csproj.CoreCompileInputs.cache
+D:\VS project\Design patterns\Bridge\obj\Debug\net7.0\Bridge.dll
+D:\VS project\Design patterns\Bridge\obj\Debug\net7.0\refint\Bridge.dll
+D:\VS project\Design patterns\Bridge\obj\Debug\net7.0\Bridge.pdb
+D:\VS project\Design patterns\Bridge\obj\Debug\net7.0\Bridge.genruntimeconfig.cache
+D:\VS project\Design patterns\Bridge\obj\Debug\net7.0\ref\Bridge.dll
