@@ -1,0 +1,15 @@
+D:\VS project\Design patterns\Facade\bin\Debug\net7.0\Facade.exe
+D:\VS project\Design patterns\Facade\bin\Debug\net7.0\Facade.deps.json
+D:\VS project\Design patterns\Facade\bin\Debug\net7.0\Facade.runtimeconfig.json
+D:\VS project\Design patterns\Facade\bin\Debug\net7.0\Facade.dll
+D:\VS project\Design patterns\Facade\bin\Debug\net7.0\Facade.pdb
+D:\VS project\Design patterns\Facade\obj\Debug\net7.0\Facade.csproj.AssemblyReference.cache
+D:\VS project\Design patterns\Facade\obj\Debug\net7.0\Facade.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS project\Design patterns\Facade\obj\Debug\net7.0\Facade.AssemblyInfoInputs.cache
+D:\VS project\Design patterns\Facade\obj\Debug\net7.0\Facade.AssemblyInfo.cs
+D:\VS project\Design patterns\Facade\obj\Debug\net7.0\Facade.csproj.CoreCompileInputs.cache
+D:\VS project\Design patterns\Facade\obj\Debug\net7.0\Facade.dll
+D:\VS project\Design patterns\Facade\obj\Debug\net7.0\refint\Facade.dll
+D:\VS project\Design patterns\Facade\obj\Debug\net7.0\Facade.pdb
+D:\VS project\Design patterns\Facade\obj\Debug\net7.0\Facade.genruntimeconfig.cache
+D:\VS project\Design patterns\Facade\obj\Debug\net7.0\ref\Facade.dll
