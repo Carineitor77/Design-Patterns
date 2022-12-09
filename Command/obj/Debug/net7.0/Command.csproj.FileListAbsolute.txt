@@ -1,0 +1,15 @@
+D:\VS project\Design patterns\Command\obj\Debug\net7.0\Command.csproj.AssemblyReference.cache
+D:\VS project\Design patterns\Command\obj\Debug\net7.0\Command.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS project\Design patterns\Command\obj\Debug\net7.0\Command.AssemblyInfoInputs.cache
+D:\VS project\Design patterns\Command\obj\Debug\net7.0\Command.AssemblyInfo.cs
+D:\VS project\Design patterns\Command\obj\Debug\net7.0\Command.csproj.CoreCompileInputs.cache
+D:\VS project\Design patterns\Command\bin\Debug\net7.0\Command.exe
+D:\VS project\Design patterns\Command\bin\Debug\net7.0\Command.deps.json
+D:\VS project\Design patterns\Command\bin\Debug\net7.0\Command.runtimeconfig.json
+D:\VS project\Design patterns\Command\bin\Debug\net7.0\Command.dll
+D:\VS project\Design patterns\Command\bin\Debug\net7.0\Command.pdb
+D:\VS project\Design patterns\Command\obj\Debug\net7.0\Command.dll
+D:\VS project\Design patterns\Command\obj\Debug\net7.0\refint\Command.dll
+D:\VS project\Design patterns\Command\obj\Debug\net7.0\Command.pdb
+D:\VS project\Design patterns\Command\obj\Debug\net7.0\Command.genruntimeconfig.cache
+D:\VS project\Design patterns\Command\obj\Debug\net7.0\ref\Command.dll
