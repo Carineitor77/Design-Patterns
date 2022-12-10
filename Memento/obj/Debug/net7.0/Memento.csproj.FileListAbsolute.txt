@@ -1,0 +1,15 @@
+D:\VS project\Design patterns\Memento\obj\Debug\net7.0\Memento.csproj.AssemblyReference.cache
+D:\VS project\Design patterns\Memento\obj\Debug\net7.0\Memento.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS project\Design patterns\Memento\obj\Debug\net7.0\Memento.AssemblyInfoInputs.cache
+D:\VS project\Design patterns\Memento\obj\Debug\net7.0\Memento.AssemblyInfo.cs
+D:\VS project\Design patterns\Memento\obj\Debug\net7.0\Memento.csproj.CoreCompileInputs.cache
+D:\VS project\Design patterns\Memento\bin\Debug\net7.0\Memento.exe
+D:\VS project\Design patterns\Memento\bin\Debug\net7.0\Memento.deps.json
+D:\VS project\Design patterns\Memento\bin\Debug\net7.0\Memento.runtimeconfig.json
+D:\VS project\Design patterns\Memento\bin\Debug\net7.0\Memento.dll
+D:\VS project\Design patterns\Memento\bin\Debug\net7.0\Memento.pdb
+D:\VS project\Design patterns\Memento\obj\Debug\net7.0\Memento.dll
+D:\VS project\Design patterns\Memento\obj\Debug\net7.0\refint\Memento.dll
+D:\VS project\Design patterns\Memento\obj\Debug\net7.0\Memento.pdb
+D:\VS project\Design patterns\Memento\obj\Debug\net7.0\Memento.genruntimeconfig.cache
+D:\VS project\Design patterns\Memento\obj\Debug\net7.0\ref\Memento.dll
