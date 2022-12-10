@@ -1,0 +1,7 @@
+﻿namespace Observer.Pull
+{
+    public abstract class Observer
+    {
+        public abstract void Update();
+    }
+}
