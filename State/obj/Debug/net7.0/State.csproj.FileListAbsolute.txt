@@ -1,0 +1,15 @@
+D:\VS project\Design patterns\State\bin\Debug\net7.0\State.exe
+D:\VS project\Design patterns\State\bin\Debug\net7.0\State.deps.json
+D:\VS project\Design patterns\State\bin\Debug\net7.0\State.runtimeconfig.json
+D:\VS project\Design patterns\State\bin\Debug\net7.0\State.dll
+D:\VS project\Design patterns\State\bin\Debug\net7.0\State.pdb
+D:\VS project\Design patterns\State\obj\Debug\net7.0\State.csproj.AssemblyReference.cache
+D:\VS project\Design patterns\State\obj\Debug\net7.0\State.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS project\Design patterns\State\obj\Debug\net7.0\State.AssemblyInfoInputs.cache
+D:\VS project\Design patterns\State\obj\Debug\net7.0\State.AssemblyInfo.cs
+D:\VS project\Design patterns\State\obj\Debug\net7.0\State.csproj.CoreCompileInputs.cache
+D:\VS project\Design patterns\State\obj\Debug\net7.0\State.dll
+D:\VS project\Design patterns\State\obj\Debug\net7.0\refint\State.dll
+D:\VS project\Design patterns\State\obj\Debug\net7.0\State.pdb
+D:\VS project\Design patterns\State\obj\Debug\net7.0\State.genruntimeconfig.cache
+D:\VS project\Design patterns\State\obj\Debug\net7.0\ref\State.dll
